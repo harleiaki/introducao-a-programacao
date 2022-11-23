@@ -1,1 +1,6 @@
-# introducao-a-programacao
+# Portugol 
+# Fluxograma
+# Variaveis
+# Comandos
+# Operadores 
+# Estruturas...
